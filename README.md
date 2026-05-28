@@ -23,10 +23,6 @@ Some example queries are:
 ![Screenshot1](./readme_screenshots/screenshot1.png)
 ![Screenshot2](./readme_screenshots/screenshot2.png)
 
-### Possible extensions: 
-- Caching user queries to avoid multiple unnecessary calls to LLM API. 
-- Run more intense scraping script to capture more product data. 
-- Add more links to PartSelect website for images and videos (currently only limited to fix troubleshooting websites). 
 
 ### Loom Video Link
 - [Loom Video](https://www.loom.com/share/63b39c892eda44de8f1da496b9c24794?sid=6d196d64-8ad8-4d9e-bcd8-59a68bd3e1a7)

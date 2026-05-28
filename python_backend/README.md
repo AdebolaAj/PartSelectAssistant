@@ -34,4 +34,4 @@ python load_docs.py
 uvicorn chroma_api:app --host 0.0.0.0 --port 8001 --reload
 ```
 
-Server is setup when you see "Documents loaded into ChromaDB." (any calls before this will not work). Using `all-MiniLM-L6-v2` without chunking is very fast for set up. Using `all-mpnet-base-v2` with chunking takes about 20 mins for server to be up and running. 
+Server is setup when you see "Documents loaded into ChromaDB." (any calls before this will not work). Using `all-mpnet-base-v2` with chunking.
