@@ -1,0 +1,24 @@
+.DS_Store
+
+# Environment files
+.env
+*.env
+!.env.example
+!*.env.example
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/build/
+
+# Python virtual environments and caches
+python_backend/.venv/
+python_backend/__pycache__/
+python_backend/.pytest_cache/
+python_backend/**/*.pyc
+
+# Local vector database data
+python_backend/chroma/
+
+# OS/editor noise
+.idea/
+.vscode/
