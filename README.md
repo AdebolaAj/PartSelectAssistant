@@ -8,7 +8,7 @@ agent uses a Retrieval-Augmented Generation (RAG) framework to retrieve relevant
 It first uses an API call to the DeepSeek LLM to ascertain whether a user query is within scope and performs another LLM call to generate a response if it is, if not it relays its scope to the user.
 The agent is also capable of mulit-round conversation by passing previous messages to LLM when generating a response. 
 
-![User design flowchart](./readme_screenshots/user_design.jpg)
+![User design flowchart](./readme_screenshots/user_design.png)
 
 ![Screenshot4](./readme_screenshots/screenshot4.png)
 
