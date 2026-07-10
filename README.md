@@ -23,7 +23,3 @@ Some example queries are:
 ![Screenshot1](./readme_screenshots/screenshot1.png)
 ![Screenshot2](./readme_screenshots/screenshot2.png)
 
-
-### Loom Video Link
-- [Loom Video](https://www.loom.com/share/975ba439326d4773ad511c362fe6ba3f)
-- [Google Slides](https://docs.google.com/presentation/d/1KtJXNX4GyXxrM-EuYIYncHenjChhtNnInfqs13DVTNA/edit?usp=sharing)
